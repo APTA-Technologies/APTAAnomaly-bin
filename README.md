@@ -125,3 +125,7 @@ Then:
 ./dashboard --evtx /path/to/evtx/files --chainsaw /path/to/chainsaw.json --builddb
 ```
 This would also work fine with `--preprocessed`, as long as chainsaw is ran on the same evtx files as aptaanomaly, since it needs to match the chainsaw findings to the corresponding evtx log lines.
+
+# License
+You are free to run the tools made available in research, lab, and evaluation settings as you want, including evaluation on live incidents. You don't obtain any rights to this software, nor permission to reverse-engineer it. You use it at your own risk, and we're not liable to you for any damages of any kind arising from the use of our software (in the sense of an absolute waiver of civil liability as much as permissible by applicable law).
+Once you start using the APTAnomaly and Timeline Explorer as part of your daily production setup post-evaluation, please contact chris@apta.tech for further discussion.

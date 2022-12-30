@@ -72,6 +72,8 @@ To process previously collected evtx files:
 
 The dashboard is used to view the calculated novelty scores, per host, per log file, in a convenient way. It also allows importing findings from other tools (currently supported: chainsaw) and display them in the timelines.
 
+![image](https://user-images.githubusercontent.com/5961113/210082635-7d9fd659-7804-4113-adb2-b4a23979926c.png)
+
 ### Usage
 
 ```
